@@ -1,0 +1,44 @@
+# Builds the Windows programs on every push and, for a tag like v1.0, publishes them as a GitHub Release.
+# The release zip holds only the programs and the translations (no game data; see tools/package.py).
+name: build
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      # No -G: CMake picks the newest Visual Studio on the runner (2022 or 2026), SDL2 is downloaded by CMake
+      - name: Configure
+        shell: cmd
+        run: cmake -S . -B build -A x64
+
+      - name: Build
+        shell: cmd
+        run: cmake --build build --config Release
+
+      - name: Package
+        shell: cmd
+        run: |
+          python tools\package.py build\Release
+          copy build\Release\OpenAssault-release.zip OpenAssault-release.zip
+
+      - uses: actions/upload-artifact@v5
+        with:
+          name: OpenAssault-windows
+          path: OpenAssault-release.zip
+
+      - name: Publish release (tags only)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: OpenAssault-release.zip
+          generate_release_notes: true

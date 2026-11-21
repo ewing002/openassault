@@ -1,0 +1,64 @@
+# OpenAssault - a port saját szövegei magyarul (UTF-8). Formátum: angol szöveg = fordítás
+@name = Magyar
+
+Mission = Küldetés
+Rumble = Rezgés
+Language = Nyelv
+Mouse = Egér
+View distance = Látótávolság-szorzó
+HD textures = HD textúrák
+Not installed = nincs telepítve
+Fullscreen = Teljes képernyő
+Window size = Ablakméret
+Fullscreen size = Teljes képernyő mérete
+Desktop = Asztal
+CHEAT CODES ACTIVATED = CSALÓKÓDOK BEKAPCSOLVA
+ASSAULT MODE ACTIVATED = ROHAMMÓD BEKAPCSOLVA
+SPACE / ESC: SKIP BRIEFING = SZÓKÖZ / ESC: ELIGAZÍTÁS ÁTUGRÁSA
+SIOUX DESTROYED = A SIOUX MEGSEMMISÜLT
+
+# fegyverek (LŐSZER: ...)
+RAZOR GUN = RAZOR GUN
+LASER CANNON = LÉZERÁGYÚ
+FIRE FLASH = FIRE FLASH
+
+# kontroller
+Stick forward/back = Kar előre/hátra
+Stick turn = Kar fordulás
+Stick drift = Kar oldalazás
+Stick height = Kar magasság
+LEFT X = BAL X
+LEFT Y = BAL Y
+RIGHT X = JOBB X
+RIGHT Y = JOBB Y
+LEFT X INV = BAL X FORDÍTVA
+LEFT Y INV = BAL Y FORDÍTVA
+RIGHT X INV = JOBB X FORDÍTVA
+RIGHT Y INV = JOBB Y FORDÍTVA
+DPAD UP = DPAD FEL
+DPAD DOWN = DPAD LE
+DPAD LEFT = DPAD BALRA
+DPAD RIGHT = DPAD JOBBRA
+
+# indító (OpenAssaultLauncher.exe)
+Play = Játék indítása
+Settings = Beállítások
+Translation = Fordítás
+Textures = Textúrák
+Language code = Nyelv kódja
+Create translation = Fordítás készítése
+Open translations folder = Fordítások mappája
+Translation guide = Fordítási útmutató
+Export textures = Textúrák kinyerése
+Open HDTEX folder = HDTEX mappa megnyitása
+Makes a copy of the original English texts for a new language; translate the files in it. = Az eredeti angol szövegekről másolatot készít egy új nyelvhez; az abban lévő fájlokat kell lefordítani.
+Exports the game's textures as PNG pictures. Edit or upscale them and put them into the HDTEX folder under the same name: they are used when HD textures are on. = Kimenti a játék textúráit PNG-képekként. Szerkeszd vagy nagyítsd fel őket, és ugyanazon a néven tedd a HDTEX mappába: bekapcsolt HD textúránál ezek látszanak.
+openassault.exe is not next to the launcher. = Az openassault.exe nincs az indító mellett.
+openassault.exe could not be started. = Az openassault.exe nem indítható.
+Type a code of 2-8 letters for the new language, e.g. DE (EN is the original). = Írd be az új nyelv 2–8 betűs kódját, pl. DE (az EN az eredeti angol).
+This language already exists; its folder opens now. = Ez a nyelv már létezik, most megnyílik a mappája.
+The translation could not be created: = A fordítás nem készült el:
+The original texts are copied. Translate the files in the folder that opens now (see the translation guide), then choose the language here. = Az eredeti szövegek átmásolva. Fordítsd le a most megnyíló mappa fájljait (lásd a fordítási útmutatót), majd itt válaszd ki a nyelvet.
+The translation guide (README.TXT in the lang folder) is missing. = A fordítási útmutató (README.TXT a lang mappában) hiányzik.
+The textures could not be exported: = A textúrák kinyerése nem sikerült:
+The textures are exported (INDEX.TXT lists which level uses them). Put your edited copies into the HDTEX folder under the same name. = A textúrák kinyerve (az INDEX.TXT mutatja, melyik pálya használja őket). A szerkesztett példányokat ugyanazon a néven tedd a HDTEX mappába.

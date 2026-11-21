@@ -1,0 +1,350 @@
+; OpenAssault - magyar menüszövegek (az eredeti DATA\MENU\TEXT\GFX.CHR fordítása, UTF-8)
+; A hiányzó azonosítók az eredeti angol szöveget kapják.
+
+[0]{FŐMENÜ}
+[1]{Új játék}
+[2]{Játék betöltése}
+[3]{Pilótaváltás}
+[4]{Beállítások}
+[5]{Legjobb tíz}
+[6]{Hálózati játék}
+[7]{Készítők}
+[8]{Kilépés}
+
+[10]{IRÁNYÍTÁS BEÁLLÍTÁSA}
+
+[11]{Irányítás típusa:}
+[12]{Normál}
+[13]{Pilóta}
+[14]{Árkád}
+[15]{Egyéni}
+
+[16]{VISSZA}
+
+[17]{Funkció}
+[18]{Billentyűzet}
+[19]{Joystick}
+
+[20]{Előre}
+[21]{Hátra}
+[22]{Balra fordulás}
+[23]{Jobbra fordulás}
+[24]{Fel}
+[25]{Le}
+[26]{Oldalazás}
+[27]{Oldalazás balra}
+[28]{Oldalazás jobbra}
+[29]{Tűz}
+[30]{Fegyverváltás}
+[31]{Rakéta}
+[32]{Smart bomba}
+[33]{Thunderbolt}
+[34]{Célzár 1.}
+[291]{Célzár 2.}
+[35]{Radar nagyítása}
+[36]{Pilótafülke/külső}
+[37]{Virt. pilótafülke be/ki}
+[38]{HUD be/ki}
+[39]{Előre nézés}
+[40]{Hátra nézés}
+[41]{Balra nézés}
+[42]{Jobbra nézés}
+[43]{Felfelé nézés}
+[44]{Lefelé nézés}
+[45]{Álló kamera}
+[46]{Külső kamera állítása}
+[47]{Nagyítás}
+[48]{Kicsinyítés}
+[66]{Nézet alaphelyzetbe}
+[49]{Kamerapozíció beállítása}
+
+[52]{ALAPÉRTELMEZÉS}
+
+[53]{BIZTOS VAGY BENNE?}
+
+[54]{KILÉPSZ A PROGRAMBÓL?}
+
+[55]{BEÁLLÍTÁSOK}
+[56]{Hangbeállítások}
+[57]{Felbontás}
+[58]{Grafikai részletesség}
+[59]{Irányítás}
+
+[60]{IRÁNYÍTÁS}
+[61]{Joystick típusa:}
+[62]{       Pedál:}
+[63]{       Egér:}
+[64]{Joystick kalibrálása}
+[65]{Irányítás kiválasztása}
+
+[67]{Nincs}
+[68]{2 gombos}
+[69]{4 gombos}
+[70]{Thrustmaster}
+
+[71]{Be}
+[72]{Ki}
+
+[73]{- Joystick kalibrálása -}
+[74]{Told a joystickot előre-balra}
+[75]{Nyomd meg a joystick gombját}
+
+[76]{- Rendben -}
+
+[77]{Told a joystickot jobbra-hátra}
+[78]{Joystick középre}
+
+[79]{Pedál jobbra}
+[80]{Pedál középre}
+[81]{Pedál balra}
+
+[82]{Gázkar maximumra}
+[83]{Gázkar minimumra}
+[84]{Gázkar középre}
+
+[85]{NINCS JOYSTICK!}
+
+[86]{HANGBEÁLLÍTÁSOK}
+[87]{         Gépi hang:}
+[88]{             Zene:}
+[89]{       Zene hangereje:}
+[90]{     Effektek hangereje:}
+[91]{      Effektek száma:}
+
+[92]{Német}
+[93]{Angol}
+
+[94]{CD audio}
+[95]{MIDI}
+[96]{Nincs zene}
+
+[97]{NEM TALÁLOM A CD-T!}
+
+[98]{BETÖLTÉS...}
+
+[99]{IGEN}
+
+[100]{NEM}
+
+[101]{1. hadműveleti terület}
+[102]{2. hadműveleti terület}
+[103]{3. hadműveleti terület}
+[104]{4. hadműveleti terület}
+[105]{5. hadműveleti terület}
+[106]{6. hadműveleti terület}
+
+[107]{HADMŰVELETI TERÜLET}
+
+[108]{FELBONTÁS}
+
+[123]{GRAFIKAI RÉSZLETESSÉG}
+[124]{        Látótávolság:}
+[125]{     Talajobjektumok:}
+[126]{                Köd:}
+[127]{Alacsony}
+[128]{Közepes}
+[129]{Magas}
+[132]{Áttetsző effektek:}
+
+[130]{TÖRLÖD A PILÓTA ADATAIT?}
+
+[131]{Játék folytatása}
+
+[143]{HADMŰVELETI TERÜLET}
+[144]{1. terület - Az elveszett völgy}
+[145]{2. terület - A föld alatt}
+[146]{3. terület - A vulkáni sziget}
+[147]{4. terület - Az ellenség gyára}
+[148]{5. terület - A fennsík}
+[149]{6. terület - Az utolsó fejezet}
+
+[150]{KÜLDETÉS BETÖLTÉSE}
+[151]{1. küldetés}
+[152]{2. küldetés}
+[153]{3. küldetés}
+[154]{4. küldetés}
+[155]{5. küldetés}
+[156]{6. küldetés}
+[157]{7. küldetés}
+[158]{8. küldetés}
+[159]{9. küldetés}
+[160]{10. küldetés}
+[161]{11. küldetés}
+[162]{12. küldetés}
+[163]{13. küldetés}
+[164]{14. küldetés}
+[165]{15. küldetés}
+[166]{16. küldetés}
+
+[167]{Felbontás:}
+
+[169]{          Eligazítás:}
+
+[170]{Szöveg}
+[171]{Szöveg és hang}
+[172]{Hang}
+
+[180]{Pajzs}
+[181]{Pont}
+[182]{Nyomj meg egy gombot...}
+[183]{PILÓTA KIVÁLASZTÁSA}
+
+[188]{Könnyű}
+[189]{Normál}
+[190]{Nehéz}
+[191]{Extrém}
+
+[260]{TAB}
+[261]{INSERT}
+[262]{DELETE}
+[263]{BACKSPACE}
+[264]{HOME}
+[265]{END}
+[266]{PAGE UP}
+[267]{PAGE DOWN}
+[268]{BALRA}
+[269]{FEL}
+[270]{JOBBRA}
+[271]{LE}
+[272]{ENTER}
+[273]{SZÓKÖZ}
+[274]{BAL SHIFT}
+[275]{JOBB SHIFT}
+[276]{CTRL}
+[277]{ALT}
+[278]{1. gomb}
+[279]{2. gomb}
+[280]{3. gomb}
+[281]{4. gomb}
+[282]{Bal egérgomb}
+[283]{Jobb egérgomb}
+[288]{<NINCS MEGADVA>}
+
+[290]{És még sokan mások...}
+
+[296]{/}
+
+[192]{perc}
+[193]{KÉSZ}
+[194]{-nincs mentett játék-}
+[196]{Tank}
+[197]{Helikopter}
+[198]{Korlátlan}
+[200]{HÁLÓZATI JÁTÉK}
+[201]{Helyi hálózat (IPX)}
+[202]{T.E.Network (TEN)}
+
+[203]{IPX HÁLÓZATI BEÁLLÍTÁSOK}
+[204]{Új játék létrehozása}
+[205]{Csatlakozás játékhoz}
+
+[206]{JÁTÉKOSOK ÉS CSAPATOK}
+
+[225]{TEN INDÍTÁSA...}
+[226]{ELÉRHETŐ TEREPEK}
+[227]{ELÉRHETŐ JÁTÉKOK}
+[228]{EREDMÉNYEK}
+[229]{TOVÁBB}
+
+[243]{JÁTÉK INDÍTÁSA...}
+[244]{Kék}
+[245]{Piros}
+[246]{Sárga}
+[247]{Zöld}
+[248]{Csapat}
+[250]{Győzelem}
+[251]{Vereség}
+[252]{JÁTÉK INDÍTÁSA}
+[253]{JÁTÉK BEFEJEZÉSE}
+[254]{JÁTÉKBEÁLLÍTÁSOK}
+[256]{Férfi}
+[257]{Női}
+[259]{Nincs}
+[292]{Energia nélkül}
+[293]{Mind}
+[294]{Gyakorlás}
+
+[300]{KÉSZÍTŐK ÉS KÖSZÖNETNYILVÁNÍTÁS}
+[302]{Producer...................Thomas Hertzler}
+[303]{Projektvezető..............Thomas Friedmann}
+[306]{Koncepció és terv..........The Extreme-Team}
+[307]{Küldetések koncepciója.....Erik Simon}
+[308]{Küldetések.................Thomas Friedmann}
+[314]{Program....................Rainer Reber}
+[315]{3D motor...................Christian Jungen}
+[316]{Különleges effektek........Christian Jungen}
+[318]{Ellenfelek logikája........Steffen Bendel}
+[320]{Hálózati program...........Lars Hammer}
+[322]{Szerkesztő.................Rainer Reber}
+[323]{További program............Jurie Horneman}
+[324]{MMX Technology.............Jörg Plewe}
+[327]{Pályák, 3D grafika.........Martin Fiedler}
+[332]{További grafika............Thorsten Knop}
+[336]{Zene.......................Chris Hülsbeck}
+[338]{Hangeffektek...............Haiko Ruttmann}
+[339]{Beszédfelvétel.............Haiko Ruttmann}
+[340]{Felvételvezető.............Wolfgang Walk}
+[341]{Hangok.....................Eric Hansen}
+[348]{Kézikönyv és tördelés......Wolfgang Walk}
+[349]{Külön köszönet.............Paul Bartu}
+[352]{Történet...................Thomas Friedmann}
+[353]{Lokalizáció................Daniel Schmidt}
+[354]{Külön köszönet.............Samantha Flint}
+[357]{Best Boy, támogatás........Thomas Häuser}
+[358]{Tűzoltóautó................Uwe Meier}
+[360]{          KÜLÖN KÖSZÖNET...}
+
+[390]{Kalapkapcsoló balra}
+[391]{Kalapkapcsoló jobbra}
+[392]{Kalapkapcsoló előre}
+[393]{Kalapkapcsoló hátra}
+[394]{Kalapkapcsoló középre}
+[395]{LEGJOBB TÍZ}
+
+[413]{LEGJOBB TÍZ}
+[414]{NÉV}
+[415]{PONT}
+[416]{NEHÉZSÉG}
+
+[417]{NEM TALÁLOM A CD-T!}
+[418]{NEM SIKERÜLT BETÖLTENI!}
+[419]{NEM SIKERÜLT MENTENI A LISTÁT!}
+[420]{A LISTA FÁJLJA SÉRÜLT!}
+
+[422]{Finom állítás}
+[423]{Durva állítás}
+[424]{Digitális}
+
+[425]{Joystick tengelyeinek kalibrálása}
+[426]{Minden tengely kalibrálása}
+[429]{Pedál beállítása}
+[430]{Gázkar beállítása}
+
+[431]{MINDEN BEÁLLÍTÁSA}
+[432]{Semleges}
+[433]{Erősség}
+[434]{Max}
+
+[435]{BEMENET}
+[436]{KIMENET}
+
+[439]{PEDÁL BEÁLLÍTÁSA}
+[440]{GÁZKAR BEÁLLÍTÁSA}
+[441]{JOYSTICK KALIBRÁLÁSA}
+
+[442]{   Előretartási pont:}
+
+[450]{Erővisszacsatolás beállítása}
+[451]{ERŐVISSZACSATOLÁS}
+[453]{Razor Gun}
+[454]{Robbanások}
+[455]{Mozgás}
+[456]{Ütközések}
+[457]{Extra}
+[458]{Tank irányítása}
+[459]{Becsapódások}
+
+[460]{ELÉRHETŐ JÁTÉKOK:}
+[461]{Megszakadt játék folytatása}
+[462]{-Megszakadt a kapcsolat- }
+[463]{-Megszakadt a játék-}

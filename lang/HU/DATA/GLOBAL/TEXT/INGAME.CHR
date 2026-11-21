@@ -1,0 +1,80 @@
+; OpenAssault - magyar játékbeli üzenetek (az eredeti DATA\GLOBAL\TEXT\INGAME.CHR fordítása, UTF-8)
+; A %s / %ld / %02ld / %07ld jelölőket meg kell tartani.
+
+[0]{TÉRJ VISSZA A KÜLDETÉS TERÜLETÉRE!}
+[1]{- NYOMJ MEG EGY GOMBOT -}
+[2]{A FELBONTÁS NEM ÉRHETŐ EL}
+[3]{SZÜNET}
+[4]{FELADOD A KÜLDETÉST? (I/N)}
+[5]{BETÖLTÖD A JÁTÉKOT? (I/N)}
+[6]{KÜLDETÉS TELJESÍTVE!}
+[7]{F12: KÖVETKEZŐ KÜLDETÉS!}
+[8]{KÜLDETÉS TELJESÍTVE!}
+[9]{ELÉRTED A KÖVETKEZŐ HADMŰVELETI TERÜLETET}
+[10]{A KÜLDETÉS SIKERTELEN!}
+[11]{ÚJRAJÁTSZOD A KÜLDETÉST? (I/N)}
+[12]{TÉRJ VISSZA A KÜLDETÉS TERÜLETÉRE!}
+[13]{RAKÉTA KÖZELEDIK!}
+[14]{PAJZSENERGIA}
+[15]{EXTRA PAJZS}
+[16]{LŐSZER: %s}
+[17]{%s %ld}
+
+[18]{FIRE FLASH}
+[19]{IRÁNYÍTOTT RAKÉTA}
+[20]{SEBEZHETETLENSÉG}
+[21]{SMART BOMBA}
+[22]{THUNDERBOLT}
+[23]{ÁLCÁZÓ BERENDEZÉS}
+[24]{MAGMA}
+[25]{UTAS A FEDÉLZETEN}
+
+[26]{BETÖLTÉS...}
+
+[27]{NINCS ELÉRHETŐ CÉLPONT}
+
+[28]{A CÉLPONT HATÓTÁVON KÍVÜL}
+
+[29]{     ESC = Küldetés feladása}
+[30]{       P = Szünet}
+[32]{      F1 = Súgó}
+[33]{      F2 = Beállítások}
+[34]{      F4 = Kilépés}
+[36]{      F5 = LowRes/HiRes váltás}
+[37]{      F6 = Látótávolság}
+[38]{      F7 = Talajrészletek}
+[39]{      F8 = Köd be/ki}
+[40]{Shift+F8 = Áttetsző effektek be/ki}
+[42]{     F12 = Következő küldetés}
+
+[45]{KILÉPSZ A PROGRAMBÓL? (I/N)}
+[46]{KILÉPSZ A JÁTÉKBÓL? (I/N)}
+
+[50]{     ESC = Kilépés a játékból}
+[51]{      F1 = Súgó }
+[52]{      F4 = Kilépés}
+[54]{      F5 = LowRes/HiRes váltás}
+[55]{      F6 = Látótávolság}
+[56]{      F7 = Talajrészletek}
+[57]{      F8 = Köd be/ki}
+[58]{Shift+F8 = Áttetsző effektek be/ki}
+
+[70]{Köd: be}
+[71]{Köd: ki}
+[72]{Látótávolság: alacsony}
+[73]{Látótávolság: közepes}
+[74]{Látótávolság: magas}
+[75]{Talajobjektumok: alacsony}
+[76]{Talajobjektumok: közepes}
+[77]{Talajobjektumok: magas}
+[78]{Áttetsző effektek: be}
+[79]{Áttetsző effektek: ki}
+[80]{IDŐ: %02ld:%02ld}
+[81]{PONT: %07ld}
+[82]{BÓNUSZ: %02ld:%02ld}
+[83]{LEJÁRT AZ IDŐ!}
+
+[195]{Most egyedül vagy.}
+[199]{VÉGE A JÁTÉKNAK}
+
+[243]{NEM SIKERÜLT MENTENI!}

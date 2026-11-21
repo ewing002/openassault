@@ -1,0 +1,14 @@
+build/
+build-*/
+SAVEGAME/
+*.bmp
+re/ghidra/proj.*
+tools/hdtex/in/
+tools/hdtex/out/
+tools/hdtex/*.pth
+
+# made from the original XA_3DFX.EXE by re/mkre.py; never commit original game content
+re/xa3dfx.img
+re/*.asm
+# private reverse engineering notes (not published)
+docs/FORMATS.md
